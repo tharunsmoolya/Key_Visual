@@ -17,7 +17,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/keyviz.git
+git clone https://github.com/tharunsmoolya/keyviz.git
 cd keyviz
 pip install -r requirements.txt
 ```
